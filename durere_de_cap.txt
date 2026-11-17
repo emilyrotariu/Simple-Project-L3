@@ -1,0 +1,7 @@
+Acesta este primul paragraf al fisierului nostru de test. Aici vorbim despre
+controlul versiunilor si despre importanta ramurilor in Git. Fiecare ramura
+separa munca noastra pana cand este gata de integrare.
+
+Acesta este al doilea paragraf. El descrie modul in care conflictele apar
+atunci cand doua persoane modifica aceleasi linii de cod in paralel. Rezolvarea
+lor cere discretie si testare locala inainte de trimiterea codului.
